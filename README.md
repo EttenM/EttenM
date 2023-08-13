@@ -3,7 +3,7 @@
 Я занимаюсь веб-разработкой. Увлекаюсь всеми аспектами визуального дизайна. Предпочитаю проектировать в браузере, как художник на холсте, но также много работаю с Figma и другими дизайн инструментами.
 
 Мои проекты: 
-<img scr="https://github.com/EttenM/EttenM.github.io/blob/main/img/Ink.gif" alt="">
+<img scr="https://github.com/EttenM/EttenM.github.io/blob/main/img/Ink.gif" alt=""  height="250" weight="320">
 <!--
 **EttenM/EttenM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
