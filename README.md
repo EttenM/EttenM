@@ -40,7 +40,7 @@
 
 <h1 align="center">Связаться со мной</h1>
 [Telegram](https://t.me/Mixail_e)
-
+[GitHub Pages](https://pages.github.com/)
 
 
 
