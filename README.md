@@ -4,7 +4,6 @@
 
 <h1 align="center">Мои проекты:</h1>
 <br>
-<br>
 
 <h1>MNTN Parallax Scroll Лендинг</h1>
 <picture>
@@ -33,19 +32,16 @@
 </picture>
 <br>
 
-
-<h1>LoftHouse Премиальные Аппартаменты</h1>
-<picture>
- <img align="center" alt="" src="https://github.com/EttenM/EttenM.github.io/blob/main/img/LoftHouse.gif">
-</picture>
-<br>
-
-
 <h1>Leasing D&M Интернет-магазин Автомобилей</h1>
 <picture>
  <img align="center" alt="" src="https://github.com/EttenM/EttenM.github.io/blob/main/img/Leasing.gif">
 </picture>
 <br>
+
+<h1 align="center">Связаться со мной</h1>
+<h2 >[Telegram](https://t.me/Mixail_e)</h2>
+<h2 align="center">Связаться со мной</h2>
+
 
 
 <!--
