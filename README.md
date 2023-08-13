@@ -7,7 +7,7 @@
 
 <h1>MNTN Parallax Scroll Лендинг</h1>
 <picture>
- <img align="center" alt="" src="https://github.com/EttenM/EttenM.github.io/blob/main/img/MountPar.gif">
+ <img align="center" alt="" src="https://github.com/EttenM/EttenM.github.io/blob/main/img/MountPar2.gif">
 </picture>
 <br>
 
