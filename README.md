@@ -39,7 +39,7 @@
 <br>
 
 <h1 align="center">Связаться со мной</h1>
-[Telegram](https://t.me/Mixail_e)
+Telegram - https://t.me/Mixail_e
 
 
 
